@@ -1,3 +1,38 @@
 h1 {
     color: red;
 }
+.watchBody{
+
+        width: 190px;
+        height: 100px;
+        border-radius: 30%;
+        font-size: 40px;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        background: rgb(0, 106, 125);
+        padding: 40px;
+        position: relative;
+      
+}
+.timeDisplay{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    border-radius: 10%;
+    background-color: rgb(125, 125, 125);
+    padding: 20px;
+}
+.timeDisplay.lightOn{
+    background-color: rgb(205, 205, 205);
+    color: black;
+}
+.Button{
+    margin: 2px;
+    font-size: 10px;
+    background: rgb(0, 61, 102);
+    border-radius: 30%;
+
+}
+.buttonsGroup{
+    margin:0 auto;
+    padding: 10px;
+}
